@@ -4,7 +4,7 @@ Ergonomic, extensible, efficient loop library for Common Lisp
 
 |---------+---------------------------------------------|
 | source  | git:https://git.sr.ht/~charje/loop         |
-| commit  | 1701b57                                     |
+| commit  | 5bae672                                     |
 | systems | charje.loop                                 |
 |---------+---------------------------------------------|
 
